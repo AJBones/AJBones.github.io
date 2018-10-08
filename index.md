@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to AJBones' homepage 
+description: Welcome to my page! It will get more interesting once I learn how things work...
 
 You can use the [editor on GitHub](https://github.com/AJBones/AJBones.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
